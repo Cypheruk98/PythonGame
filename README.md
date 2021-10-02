@@ -10,6 +10,6 @@ Project lead for the group (recorded meetings, agenda and further actions to tak
 Edited script throughout for grammar and spelling.
 
 
-<img src="/doc/carbon.png" alt="source code"/>
+<img src="/carbon.png" alt="source code"/>
 
                                    
